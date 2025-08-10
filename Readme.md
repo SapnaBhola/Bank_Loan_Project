@@ -29,14 +29,11 @@ It features **two interactive Excel dashboards** for a comprehensive view:
 
 ---
 
-## Dashboard Previews
-
 ### **Overview Dashboard**
-![Overview Dashboard](Dashboard_Screenshots/overview_dashboard.png)
+![Overview Dashboard](Overview_dashboard.png)
 
 ### **Summary Dashboard**
-![Summary Dashboard](Dashboard_Screenshots/summary_dashboard.png)
-
+![Summary Dashboard](Summary_dashboard.png)
 ---
 
 ## Tools & Skills Used
