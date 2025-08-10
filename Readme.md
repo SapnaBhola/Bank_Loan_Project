@@ -1,6 +1,6 @@
 # 📊 Bank Loan Analysis Dashboard (Excel)
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes **38,000+ bank loan applications** to uncover trends in loan performance, borrower behavior, and risk patterns.  
 It features **two interactive Excel dashboards** for a comprehensive view:
 
@@ -9,7 +9,7 @@ It features **two interactive Excel dashboards** for a comprehensive view:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - **Total Loan Applications:** 38.6K | **Total Funded Amount:** $435.8M | **Total Amount Received:** $473.1M  
 - **Good Loans:** 86.18% of total applications  
 - **Bad Loans:** 13.82% of total applications  
@@ -20,7 +20,7 @@ It features **two interactive Excel dashboards** for a comprehensive view:
 
 ---
 
-## 📂 Project Files
+## Project Files
 - `Banking_Loan_Project.xlsx` → Interactive dashboards with slicers, KPIs, and charts.
 - `Dashboard_Screenshots/`
   - `overview_dashboard.png` → Overview of loan trends & borrower segmentation.
@@ -29,13 +29,13 @@ It features **two interactive Excel dashboards** for a comprehensive view:
 
 ---
 
-## 📷 Dashboard Previews
+## Dashboard Previews
 
 ### **Overview Dashboard**
-![Overview Dashboard](Dashboard_Screenshots/Overview_dashboard.png)
+![Overview Dashboard](Dashboard_Screenshots/overview_dashboard.png)
 
 ### **Summary Dashboard**
-![Summary Dashboard](Dashboard_Screenshots/Summary_dashboard.png)
+![Summary Dashboard](Dashboard_Screenshots/summary_dashboard.png)
 
 ---
 
@@ -58,7 +58,7 @@ It features **two interactive Excel dashboards** for a comprehensive view:
 
 ##  How to Use
 1. Download or clone this repository.
-2. Open `Banking_Loan_Report.xlsx` in **Microsoft Excel (2016 or later)** for full interactivity.
+2. Open `Banking_Loan_Project.xlsx` in **Microsoft Excel (2016 or later)** for full interactivity.
 3. Use slicers to filter by:
    - Loan Grade (A–G)
    - Loan Purpose
@@ -69,7 +69,5 @@ It features **two interactive Excel dashboards** for a comprehensive view:
 
 ## 📬 Contact
 If you’d like to connect or collaborate:  
-**LinkedIn:** (https://www.linkedin.com/in/sapna-18785b287/)
+**LinkedIn:** [Sapna](https://www.linkedin.com/in/sapna-18785b287/)  
 **Email:** sapna.bhola86@gmail.com
-
----
