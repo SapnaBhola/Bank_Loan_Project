@@ -21,11 +21,10 @@ It features **two interactive Excel dashboards** for a comprehensive view:
 ---
 
 ## Project Files
-- `Banking_Loan_Project.xlsx` → Interactive dashboards with slicers, KPIs, and charts.
-- `Dashboard_Screenshots/`
-  - `overview_dashboard.png` → Overview of loan trends & borrower segmentation.
-  - `summary_dashboard.png` → Good vs. bad loans and repayment performance.
-- `Data/Financial_loan.csv` → Cleaned & anonymized dataset used for analysis (optional).
+- [Banking_Loan_Project.xlsx](https://github.com/SapnaBhola/Bank_Loan_Project/blob/main/Banking_Loan_Project.xlsx) → Interactive dashboards with slicers, KPIs, and charts.
+- [Overview Dashboard](https://github.com/SapnaBhola/Bank_Loan_Project/blob/main/Overview_dashboard.png) → Overview of loan trends & borrower segmentation.
+- [Summary Dashboard](https://github.com/SapnaBhola/Bank_Loan_Project/blob/main/Summary_dashboard.png) → Good vs. bad loans and repayment performance.
+- [Financial_loan.csv](https://github.com/SapnaBhola/Bank_Loan_Project/blob/main/Financial_loan.csv) → Cleaned & anonymized dataset used for analysis.
 
 ---
 
